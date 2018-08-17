@@ -16,7 +16,8 @@
     "@nuxtjs/axios": "^5.0.0",
     "ajv": "^6.0.0",
     "nuxt": "^1.0.0",
-    "postcss-preset-env": "^5.3.0"
+    "postcss-preset-env": "^5.3.0",
+    "storyblok-nuxt": "0.0.9"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
